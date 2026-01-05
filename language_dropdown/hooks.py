@@ -5,6 +5,8 @@ app_description = "Language Dropdown"
 app_email = "siddhant.saxena@nexityconsulting.com"
 app_license = "mit"
 
+
+app_include_css = "/assets/language_dropdown/css/custom.css"
 # Apps
 # ------------------
 

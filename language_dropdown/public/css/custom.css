@@ -1,0 +1,3 @@
+#header-navbar-change-lang a.dropdown-item[data-lang="AR"] {
+    display: none !important;
+}
